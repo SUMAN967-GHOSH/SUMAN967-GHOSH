@@ -1,60 +1,70 @@
 # Hi there, I'm Suman Ghosh 👋
 
-<h3 align="center">CSE Student | Problem Solver | DSA Enthusiast | Future Software Engineer</h3>
+<h3 align="center">
+  CSE Student • Problem Solver • DSA Enthusiast • Future Software Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;DSA+Enthusiast;Competitive+Programmer;Always+Learning+New+Technologies;Building+Projects+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;DSA+Enthusiast;Competitive+Programmer;Full+Stack+Developer+in+Progress;Always+Learning+New+Technologies;Building+Projects+Every+Day" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SUMAN967-GHOSH&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 3rd Year Computer Science & Engineering Student
+🎓 **3rd Year Computer Science & Engineering Student**
 
-💡 Passionate about solving challenging problems using Data Structures & Algorithms.
+💡 Passionate about solving challenging problems using **Data Structures & Algorithms**.
 
-🌱 Currently learning:
+🌱 Currently learning and improving my skills in:
 
-* Java
-* Data Structures & Algorithms
-* Full Stack Web Development
-* Git & GitHub
+- ☕ Java
+- 🧠 Data Structures & Algorithms
+- 🌐 Full Stack Web Development
+- 🔧 Git & GitHub
+- 💻 Problem Solving & Competitive Programming
 
-🎯 Goal:
+🎯 **Career Goal**
 
-> Become a Software Engineer at a top product-based company.
+> Become a Software Engineer at a top product-based company and build software that solves real-world problems.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,js" />
+</p>
 
-### Web Development
+### 🌐 Web Development
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### Tools
+### 🔧 Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUMAN967-GHOSH&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUMAN967-GHOSH&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUMAN967-GHOSH&theme=tokyonight" />
 </p>
 
 ---
@@ -62,35 +72,74 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=SUMAN967-GHOSH&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+---
+
+## 🚀 Current Focus
+
+<table align="center">
+  <tr>
+    <td>🧠</td>
+    <td><b>Mastering DSA</b></td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td><b>Solving LeetCode Problems Daily</b></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Building Full Stack Projects</b></td>
+  </tr>
+  <tr>
+    <td>🌍</td>
+    <td><b>Contributing to Open Source</b></td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td><b>Learning New Technologies</b></td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/SUMAN967-GHOSH">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/SUMAN967-GHOSH">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sefalighosh967@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </p>
 
 ---
 
-##  Current Focus
+## 💭 Developer Mindset
 
-✔ Mastering DSA
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
 
-✔ Solving LeetCode Problems Daily
-
-✔ Building Full Stack Projects
-
-✔ Open Source Contributions
-
----
-
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
+<p align="center">
+  <b>Code • Learn • Build • Repeat 🚀</b>
+</p>
 
 ---
 
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b><br>
-<i>Code • Learn • Build • Repeat 🚀</i>
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 👋</b>
 </p>
